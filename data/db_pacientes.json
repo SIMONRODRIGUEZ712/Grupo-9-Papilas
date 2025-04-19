@@ -1,0 +1,80 @@
+{
+    "002": {
+        "id": "002",
+        "nombre": "Hugo",
+        "edad": 90,
+        "genero": "F"
+    },
+    "004": {
+        "id": "004",
+        "nombre": "Simon",
+        "edad": 58,
+        "genero": "M"
+    },
+    "005": {
+        "id": "005",
+        "nombre": "Perceo",
+        "edad": 89,
+        "genero": "M"
+    },
+    "006": {
+        "id": "006",
+        "nombre": "Jymmy",
+        "edad": 69,
+        "genero": "M"
+    },
+    "007": {
+        "id": "007",
+        "nombre": "Manuel",
+        "edad": 22,
+        "genero": "M"
+    },
+    "008": {
+        "id": "008",
+        "nombre": "Ramiro",
+        "edad": 67,
+        "genero": "M"
+    },
+    "009": {
+        "id": "009",
+        "nombre": "Federico",
+        "edad": 79,
+        "genero": "M"
+    },
+    "010": {
+        "id": "010",
+        "nombre": "Reimi",
+        "edad": 72,
+        "genero": "M"
+    },
+    "013": {
+        "id": "013",
+        "nombre": "Alejandro",
+        "edad": 70,
+        "genero": "M"
+    },
+    "014": {
+        "id": "014",
+        "nombre": "Fernando",
+        "edad": 60,
+        "genero": "M"
+    },
+    "015": {
+        "id": "015",
+        "nombre": "Oscar",
+        "edad": 78,
+        "genero": "M"
+    },
+    "016": {
+        "id": "016",
+        "nombre": "Deiby",
+        "edad": 69,
+        "genero": "M"
+    },
+    "018": {
+        "id": "018",
+        "nombre": "Leonardo",
+        "edad": 43,
+        "genero": "M"
+    }
+}

@@ -1,0 +1,210 @@
+{
+    "001": {
+        "id": "001",
+        "id_diagnostico": "001",
+        "archivo": "RET002OD.jpg",
+        "descripcion": "Prueba",
+        "tipo_ojo": "OD",
+        "fecha_captura": "2025-01-01"
+    },
+    "002": {
+        "id": "002",
+        "id_diagnostico": "002",
+        "archivo": "RET002OS.jpg",
+        "descripcion": "Prueba",
+        "tipo_ojo": "OS",
+        "fecha_captura": "2025-01-01"
+    },
+    "003": {
+        "id": "003",
+        "id_diagnostico": "003",
+        "archivo": "RET004OD.jpg",
+        "descripcion": "Prueba",
+        "tipo_ojo": "OD",
+        "fecha_captura": "2025-01-01"
+    },
+    "004": {
+        "id": "004",
+        "id_diagnostico": "004",
+        "archivo": "RET004OS.jpg",
+        "descripcion": "Prueba",
+        "tipo_ojo": "OS",
+        "fecha_captura": "2025-01-01"
+    },
+    "005": {
+        "id": "005",
+        "id_diagnostico": "005",
+        "archivo": "RET005OD.jpg",
+        "descripcion": "Prueba",
+        "tipo_ojo": "OD",
+        "fecha_captura": "2025-01-01"
+    },
+    "006": {
+        "id": "006",
+        "id_diagnostico": "006",
+        "archivo": "RET005OS.jpg",
+        "descripcion": "Prueba",
+        "tipo_ojo": "OS",
+        "fecha_captura": "2025-01-01"
+    },
+    "007": {
+        "id": "007",
+        "id_diagnostico": "007",
+        "archivo": "RET006OD.jpg",
+        "descripcion": "Prueba",
+        "tipo_ojo": "OD",
+        "fecha_captura": "2025-01-01"
+    },
+    "008": {
+        "id": "008",
+        "id_diagnostico": "008",
+        "archivo": "RET006OS.jpg",
+        "descripcion": "Prueba",
+        "tipo_ojo": "OS",
+        "fecha_captura": "2025-01-01"
+    },
+    "009": {
+        "id": "009",
+        "id_diagnostico": "009",
+        "archivo": "RET007OD.jpg",
+        "descripcion": "Prueba",
+        "tipo_ojo": "OD",
+        "fecha_captura": "2025-01-01"
+    },
+    "010": {
+        "id": "010",
+        "id_diagnostico": "010",
+        "archivo": "RET007OS.jpg",
+        "descripcion": "Prueba",
+        "tipo_ojo": "OS",
+        "fecha_captura": "2025-01-01"
+    },
+    "011": {
+        "id": "011",
+        "id_diagnostico": "011",
+        "archivo": "RET008OD.jpg",
+        "descripcion": "Prueba",
+        "tipo_ojo": "OD",
+        "fecha_captura": "2025-01-01"
+    },
+    "012": {
+        "id": "012",
+        "id_diagnostico": "012",
+        "archivo": "RET008OS.jpg",
+        "descripcion": "Prueba",
+        "tipo_ojo": "OS",
+        "fecha_captura": "2025-01-01"
+    },
+    "013": {
+        "id": "013",
+        "id_diagnostico": "013",
+        "archivo": "RET009OD.jpg",
+        "descripcion": "Prueba",
+        "tipo_ojo": "OD",
+        "fecha_captura": "2025-01-01"
+    },
+    "014": {
+        "id": "014",
+        "id_diagnostico": "014",
+        "archivo": "RET009OS.jpg",
+        "descripcion": "Prueba",
+        "tipo_ojo": "OS",
+        "fecha_captura": "2025-01-01"
+    },
+    "015": {
+        "id": "015",
+        "id_diagnostico": "015",
+        "archivo": "RET010OD.jpg",
+        "descripcion": "Prueba",
+        "tipo_ojo": "OD",
+        "fecha_captura": "2025-01-01"
+    },
+    "016": {
+        "id": "016",
+        "id_diagnostico": "016",
+        "archivo": "RET010OS.jpg",
+        "descripcion": "Prueba",
+        "tipo_ojo": "OS",
+        "fecha_captura": "2025-01-01"
+    },
+    "017": {
+        "id": "017",
+        "id_diagnostico": "017",
+        "archivo": "RET013OD.jpg",
+        "descripcion": "Prueba",
+        "tipo_ojo": "OD",
+        "fecha_captura": "2025-01-01"
+    },
+    "018": {
+        "id": "018",
+        "id_diagnostico": "018",
+        "archivo": "RET013OS.jpg",
+        "descripcion": "Prueba",
+        "tipo_ojo": "OS",
+        "fecha_captura": "2025-01-01"
+    },
+    "019": {
+        "id": "019",
+        "id_diagnostico": "019",
+        "archivo": "RET014OD.jpg",
+        "descripcion": "Prueba",
+        "tipo_ojo": "OD",
+        "fecha_captura": "2025-01-01"
+    },
+    "020": {
+        "id": "020",
+        "id_diagnostico": "020",
+        "archivo": "RET014OS.jpg",
+        "descripcion": "Prueba",
+        "tipo_ojo": "OS",
+        "fecha_captura": "2025-01-01"
+    },
+    "021": {
+        "id": "021",
+        "id_diagnostico": "021",
+        "archivo": "RET015OD.jpg",
+        "descripcion": "Prueba",
+        "tipo_ojo": "OD",
+        "fecha_captura": "2025-01-01"
+    },
+    "022": {
+        "id": "022",
+        "id_diagnostico": "022",
+        "archivo": "RET015OS.jpg",
+        "descripcion": "Prueba",
+        "tipo_ojo": "OS",
+        "fecha_captura": "2025-01-01"
+    },
+    "023": {
+        "id": "023",
+        "id_diagnostico": "023",
+        "archivo": "RET016OD.jpg",
+        "descripcion": "Prueba",
+        "tipo_ojo": "OD",
+        "fecha_captura": "2025-01-01"
+    },
+    "024": {
+        "id": "024",
+        "id_diagnostico": "024",
+        "archivo": "RET016OS.jpg",
+        "descripcion": "Prueba",
+        "tipo_ojo": "OS",
+        "fecha_captura": "2025-01-01"
+    },
+    "025": {
+        "id": "025",
+        "id_diagnostico": "025",
+        "archivo": "RET018OD.jpg",
+        "descripcion": "Prueba",
+        "tipo_ojo": "OD",
+        "fecha_captura": "2025-01-01"
+    },
+    "026": {
+        "id": "026",
+        "id_diagnostico": "026",
+        "archivo": "RET018OS.jpg",
+        "descripcion": "Prueba",
+        "tipo_ojo": "OS",
+        "fecha_captura": "2025-01-01"
+    }
+}

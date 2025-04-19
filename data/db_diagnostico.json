@@ -1,0 +1,236 @@
+{
+    "001": {
+        "id": "001",
+        "id_paciente": "002",
+        "fecha": "2025-04-15",
+        "dioptria_1": 0.75,
+        "dioptria_2": -1.75,
+        "astigmatismo": 90,
+        "tipo": "OD"
+    },
+    "002": {
+        "id": "002",
+        "id_paciente": "002",
+        "fecha": "2025-01-01",
+        "dioptria_1": -0.5,
+        "dioptria_2": -1.5,
+        "astigmatismo": 88,
+        "tipo": "OS"
+    },
+    "003": {
+        "id": "003",
+        "id_paciente": "004",
+        "fecha": "2025-01-01",
+        "dioptria_1": 1.5,
+        "dioptria_2": -1.75,
+        "astigmatismo": 85,
+        "tipo": "OD"
+    },
+    "004": {
+        "id": "004",
+        "id_paciente": "004",
+        "fecha": "2025-01-01",
+        "dioptria_1": 1.5,
+        "dioptria_2": -2.5,
+        "astigmatismo": 85,
+        "tipo": "OS"
+    },
+    "005": {
+        "id": "005",
+        "id_paciente": "005",
+        "fecha": "2025-01-01",
+        "dioptria_1": -0.75,
+        "dioptria_2": -1.25,
+        "astigmatismo": 101,
+        "tipo": "OD"
+    },
+    "006": {
+        "id": "006",
+        "id_paciente": "005",
+        "fecha": "2025-01-01",
+        "dioptria_1": -0.5,
+        "dioptria_2": -2,
+        "astigmatismo": 100,
+        "tipo": "OS"
+    },
+    "007": {
+        "id": "007",
+        "id_paciente": "006",
+        "fecha": "2025-01-01",
+        "dioptria_1": 1,
+        "dioptria_2": -1.5,
+        "astigmatismo": 95,
+        "tipo": "OD"
+    },
+    "008": {
+        "id": "008",
+        "id_paciente": "006",
+        "fecha": "2025-01-01",
+        "dioptria_1": 1,
+        "dioptria_2": -1.5,
+        "astigmatismo": 85,
+        "tipo": "OS"
+    },
+    "009": {
+        "id": "009",
+        "id_paciente": "007",
+        "fecha": "2025-01-01",
+        "dioptria_1": -0.25,
+        "dioptria_2": 0,
+        "astigmatismo": 0,
+        "tipo": "OD"
+    },
+    "010": {
+        "id": "010",
+        "id_paciente": "007",
+        "fecha": "2025-01-01",
+        "dioptria_1": -0.25,
+        "dioptria_2": -0.5,
+        "astigmatismo": 0,
+        "tipo": "OS"
+    },
+    "011": {
+        "id": "011",
+        "id_paciente": "008",
+        "fecha": "2025-01-01",
+        "dioptria_1": "",
+        "dioptria_2": -0.75,
+        "astigmatismo": 20,
+        "tipo": "OD"
+    },
+    "012": {
+        "id": "012",
+        "id_paciente": "008",
+        "fecha": "2025-01-01",
+        "dioptria_1": "",
+        "dioptria_2": -0.25,
+        "astigmatismo": 145,
+        "tipo": "OS"
+    },
+    "013": {
+        "id": "013",
+        "id_paciente": "009",
+        "fecha": "2025-01-01",
+        "dioptria_1": 0.75,
+        "dioptria_2": -1.5,
+        "astigmatismo": 95,
+        "tipo": "OD"
+    },
+    "014": {
+        "id": "014",
+        "id_paciente": "009",
+        "fecha": "2025-01-01",
+        "dioptria_1": 0.25,
+        "dioptria_2": -0.75,
+        "astigmatismo": 75,
+        "tipo": "OS"
+    },
+    "015": {
+        "id": "015",
+        "id_paciente": "010",
+        "fecha": "2025-01-01",
+        "dioptria_1": 2.25,
+        "dioptria_2": -1.5,
+        "astigmatismo": 105,
+        "tipo": "OD"
+    },
+    "016": {
+        "id": "016",
+        "id_paciente": "010",
+        "fecha": "2025-01-01",
+        "dioptria_1": 2.5,
+        "dioptria_2": -1,
+        "astigmatismo": 70,
+        "tipo": "OS"
+    },
+    "017": {
+        "id": "017",
+        "id_paciente": "013",
+        "fecha": "2025-01-01",
+        "dioptria_1": "3",
+        "dioptria_2": "-100",
+        "astigmatismo": "65",
+        "tipo": "OD"
+    },
+    "018": {
+        "id": "018",
+        "id_paciente": "013",
+        "fecha": "2025-01-01",
+        "dioptria_1": "2.25",
+        "dioptria_2": "-175",
+        "astigmatismo": "98",
+        "tipo": "OS"
+    },
+    "019": {
+        "id": "019",
+        "id_paciente": "014",
+        "fecha": "2025-01-01",
+        "dioptria_1": "0.25",
+        "dioptria_2": "-50",
+        "astigmatismo": "155",
+        "tipo": "OD"
+    },
+    "020": {
+        "id": "020",
+        "id_paciente": "014",
+        "fecha": "2025-01-01",
+        "dioptria_1": "0.25",
+        "dioptria_2": "-150",
+        "astigmatismo": "160",
+        "tipo": "OS"
+    },
+    "021": {
+        "id": "021",
+        "id_paciente": "015",
+        "fecha": "2025-01-01",
+        "dioptria_1": "150",
+        "dioptria_2": "-225",
+        "astigmatismo": "90",
+        "tipo": "OD"
+    },
+    "022": {
+        "id": "022",
+        "id_paciente": "015",
+        "fecha": "2025-01-01",
+        "dioptria_1": "100",
+        "dioptria_2": "-225",
+        "astigmatismo": "90",
+        "tipo": "OS"
+    },
+    "023": {
+        "id": "023",
+        "id_paciente": "016",
+        "fecha": "2025-01-01",
+        "dioptria_1": "150",
+        "dioptria_2": "-50",
+        "astigmatismo": "100",
+        "tipo": "OD"
+    },
+    "024": {
+        "id": "024",
+        "id_paciente": "016",
+        "fecha": "2025-01-01",
+        "dioptria_1": "150",
+        "dioptria_2": "-50",
+        "astigmatismo": "50",
+        "tipo": "OS"
+    },
+    "025": {
+        "id": "025",
+        "id_paciente": "018",
+        "fecha": "2025-01-01",
+        "dioptria_1": "-200",
+        "dioptria_2": "-75",
+        "astigmatismo": "97",
+        "tipo": "OD"
+    },
+    "026": {
+        "id": "026",
+        "id_paciente": "018",
+        "fecha": "2025-01-01",
+        "dioptria_1": "-300",
+        "dioptria_2": "-100",
+        "astigmatismo": "175",
+        "tipo": "OS"
+    }
+}
